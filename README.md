@@ -946,7 +946,9 @@ summary.py - Complete code compilation
 
 ## License
 
-This course material is created for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This course material is free to use, modify, and distribute for educational and commercial purposes.
 
 ---
 
