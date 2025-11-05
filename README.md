@@ -1,14 +1,14 @@
 # Python Learning Course - Complete Guide
 
-A comprehensive Python course from basics to object-oriented programming, with 35 practical files organized by topic.
+A comprehensive Python course from basics to mini projects, with 45 practical files organized by topic.
 
 ## Course Overview
 
-This repository contains a complete Python learning path with hands-on examples, practice problems, and detailed explanations. Each file builds upon previous concepts, progressing from basic syntax to advanced OOP principles.
+This repository contains a complete Python learning path with hands-on examples, practice problems, and detailed explanations. Each file builds upon previous concepts, progressing from basic syntax to advanced OOP principles, modules, exception handling, and real-world mini projects.
 
-**Total Files:** 35 Python files + 1 summary file  
-**Topics Covered:** 7 major areas  
-**Practice Problems:** 200+ exercises
+**Total Files:** 45 Python files + 1 summary file  
+**Topics Covered:** 10 major areas  
+**Practice Problems:** 300+ exercises
 
 ---
 
@@ -77,6 +77,28 @@ This repository contains a complete Python learning path with hands-on examples,
 - [34.py](07_OOP/34.py) - Geometric Shapes (Circle Class)
 - [35.py](07_OOP/35.py) - Inheritance & Advanced OOP Concepts
 
+### 08_Modules_Packages
+*Working with Python's built-in modules and creating custom modules*
+
+- [36.py](08_Modules_Packages/36.py) - Math Module - Mathematical Functions & Constants
+- [37.py](08_Modules_Packages/37.py) - Random Module - Random Numbers & Choices
+- [38.py](08_Modules_Packages/38.py) - OS Module - Operating System Interface
+- [39.py](08_Modules_Packages/39.py) - Custom Modules - Creating Reusable Code
+
+### 09_Exception_Handling
+*Handling errors gracefully with try-except-finally blocks*
+
+- [40.py](09_Exception_Handling/40.py) - Try-Except Basics - Error Handling
+- [41.py](09_Exception_Handling/41.py) - Else and Finally - Complete Structure
+- [42.py](09_Exception_Handling/42.py) - Raising Exceptions - Custom Exceptions
+
+### 10_Mini_Projects
+*Real-world CLI applications combining multiple concepts*
+
+- [43.py](10_Mini_Projects/43.py) - CLI Calculator - Complete Calculator App
+- [44.py](10_Mini_Projects/44.py) - To-Do List Manager - Task Management System
+- [45.py](10_Mini_Projects/45.py) - Student Records System - CRUD Application
+
 ---
 
 ## 📚 Learning Path
@@ -120,6 +142,26 @@ Learn object-oriented programming principles to write professional, scalable cod
 - Polymorphism
 - Operator overloading
 
+### Professional Level (Files 36-42)
+Master Python modules and error handling for production-ready code.
+
+**Key Concepts:**
+- Built-in modules (math, random, os)
+- Custom module creation
+- Exception handling
+- Try-except-finally structure
+- Raising custom exceptions
+
+### Project Level (Files 43-45)
+Build complete applications combining all learned concepts.
+
+**Key Concepts:**
+- CLI application design
+- CRUD operations
+- File persistence (JSON)
+- User input validation
+- Error handling in real applications
+
 ---
 
 ## 🎯 Quick Topic Reference
@@ -141,6 +183,12 @@ Learn object-oriented programming principles to write professional, scalable cod
 | **File I/O** | 28, 29, 30 | Reading/writing files, CSV processing |
 | **OOP Basics** | 31, 32 | Classes, objects, methods |
 | **OOP Advanced** | 33, 34, 35 | Inheritance, polymorphism, operator overloading |
+| **Math Module** | 36 | Mathematical functions, constants, calculations |
+| **Random Module** | 37 | Random numbers, choices, shuffling |
+| **OS Module** | 38 | File system, paths, environment variables |
+| **Custom Modules** | 39 | Creating reusable code modules |
+| **Exception Handling** | 40, 41, 42 | Try-except, finally, custom exceptions |
+| **Mini Projects** | 43, 44, 45 | Complete CLI applications |
 
 ---
 
@@ -175,6 +223,12 @@ python 1.py
 ### Summary File
 - **[summary.py](summary.py)** - Contains all original code from files 1-35 with explanatory comments
 
+### Mini Projects
+Each mini project is a complete, working application:
+- **Calculator** - Full-featured CLI calculator with history
+- **To-Do List** - Task manager with priorities and persistence
+- **Student Records** - Complete CRUD system with grade calculation
+
 ### Documentation
 - Clean, well-commented code in every file
 - Practice problems with varying difficulty levels
@@ -186,11 +240,14 @@ python 1.py
 
 - **Progressive Learning:** Each file builds on previous knowledge
 - **Practical Examples:** Real-world applications of concepts
-- **200+ Practice Problems:** Reinforce learning with hands-on exercises
+- **300+ Practice Problems:** Reinforce learning with hands-on exercises
 - **Detailed Comments:** Every line explained for beginners
 - **Concept Summaries:** Key takeaways in each file
 - **Bug-Free Code:** All code tested and verified
-- **Organized Structure:** 7 topic-based folders for easy navigation
+- **Organized Structure:** 10 topic-based folders for easy navigation
+- **Mini Projects:** 3 complete CLI applications
+- **Error Handling:** Professional exception handling throughout
+- **Module Creation:** Learn to write reusable code modules
 
 ---
 
